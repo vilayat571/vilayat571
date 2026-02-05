@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Vilayat Safarov</h1>
-<h3 align="center">Frontend Developer & UI/UX Designer</h3>
+<h1 align="center">Hi 👋, I'm Vilayat Hamzah Safarov</h1>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
-  <a href="mailto:vilayat571@gmail.com">📧 vilayat571@gmail.com</a> •
+  <a href="mailto:safarovilayat@gmail.com">📧 safarovilayat@gmail.com</a> •
   <a href="https://linkedin.com/in/vilayat-safarov-1a3b58249">LinkedIn</a> •
   📍 Kuala Lumpur, Malaysia
 </p>
